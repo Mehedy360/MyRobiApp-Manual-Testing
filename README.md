@@ -1,16 +1,18 @@
 
 ## Manual Testing for My Robi App
 
-At first I have planned and created the test plan for the My Robi App (https://github.com/Mehedy360/MyRobiApp-Manual-Testing/blob/master/TestPlan.docx)
+At first I have planned and created the test plan for the My Robi App.
 Then brain storm and wrote those functional test cases
-
 ## Fucntional Test Cases
-(https://github.com/Mehedy360/MyRobiApp-Manual-Testing/blob/master/Screenshot%202023-03-13%20193136.png)
+
+![TestCase](https://user-images.githubusercontent.com/44100836/225027829-944f7583-8712-4b2a-b4a9-35a3ac2052b9.png)
+
 
 
 ## Bug Report 
-https://github.com/Mehedy360/MyRobiApp-Manual-Testing/blob/master/Bug-Report-Change%20amount%20on%20Payment%20Gateway.docx
+[Bug-Report-Change amount on Payment Gateway.docx](https://github.com/Mehedy360/MyRobiApp-Manual-Testing/files/10969604/Bug-Report-Change.amount.on.Payment.Gateway.docx)
 
 ## MindMap
-https://github.com/Mehedy360/MyRobiApp-Manual-Testing/blob/master/My%20Robi.png
+![My Robi](https://user-images.githubusercontent.com/44100836/225029110-379c69de-4f85-41c8-bbbc-7a37d88f7e95.png)
+
 
