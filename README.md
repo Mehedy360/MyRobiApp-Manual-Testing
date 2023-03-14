@@ -19,3 +19,10 @@ Then brain storm and wrote those functional test cases
 ![My Robi](https://user-images.githubusercontent.com/44100836/225029110-379c69de-4f85-41c8-bbbc-7a37d88f7e95.png)
 
 
+## After test execution generate the test metrics 
+![TestMetrics](https://user-images.githubusercontent.com/44100836/225031379-73148ae5-ec6f-495c-af67-dab8846c0e8f.png)
+
+## Test Plan and Test Deliverables Summary
+![TestPlan](https://user-images.githubusercontent.com/44100836/225031930-ccd253b3-86b3-4657-aaaf-8476c9f823af.png)
+
+
