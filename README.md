@@ -12,6 +12,9 @@ Then brain storm and wrote those functional test cases
 ## Bug Report 
 [Bug-Report-Change amount on Payment Gateway.docx](https://github.com/Mehedy360/MyRobiApp-Manual-Testing/files/10969604/Bug-Report-Change.amount.on.Payment.Gateway.docx)
 
+![BugReport](https://user-images.githubusercontent.com/44100836/225029435-62f3070c-386a-4ae1-bcf4-39b65ae0050e.png)
+
+
 ## MindMap
 ![My Robi](https://user-images.githubusercontent.com/44100836/225029110-379c69de-4f85-41c8-bbbc-7a37d88f7e95.png)
 
